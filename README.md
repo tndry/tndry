@@ -18,8 +18,10 @@ My recent projects include:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 🌍 Socials
-- [LinkedIn](https://www.linkedin.com/in/tandry_simamora/)
-- [GitHub](https://github.com/tndry)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2style=flat&logo=linkedin&logoColor=white)
+
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
+
 
 "Stay curious and keep building!" — [Tandry]
 
