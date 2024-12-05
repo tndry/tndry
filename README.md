@@ -23,7 +23,7 @@ My recent projects include:
 - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
 
 
-"Stay curious and keep building!" — [Tandry]
+"Stay curious and keep building!" 
 
 
 
