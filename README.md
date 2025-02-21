@@ -17,6 +17,13 @@ My recent projects include:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tndry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tndry&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 ## 🌍 Socials
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2style=flat&logo=linkedin&logoColor=white)
 
